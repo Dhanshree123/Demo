@@ -1,0 +1,14 @@
+INFO  | 2020-09-19 12:04:04 | [main] JavaPractice.App (App.java:17) - We've just greeted the user!
+WARN  | 2020-09-19 12:04:04 | [main] JavaPractice.App (App.java:18) - We've just greeted the user!
+ERROR | 2020-09-19 12:04:04 | [main] JavaPractice.App (App.java:19) - We've just greeted the user!
+FATAL | 2020-09-19 12:04:04 | [main] JavaPractice.App (App.java:20) - We've just greeted the user!
+INFO  | 2020-09-19 12:25:44 | [main] JavaPractice.App (App.java:24) - Hello, World Will be printed on debug
+WARN  | 2020-09-19 12:25:44 | [main] JavaPractice.App (App.java:25) - Hello, World Will be printed on debug
+ERROR | 2020-09-19 12:25:44 | [main] JavaPractice.App (App.java:26) - Hello, World Will be printed on debug
+FATAL | 2020-09-19 12:25:44 | [main] JavaPractice.App (App.java:27) - Hello, World Will be printed on debug
+INFO  | 2020-09-19 12:25:44 | [main] JavaPractice.App (App.java:28) - Appending string:Hello, World.
+INFO  | 2020-09-20 19:49:33 | [main] JavaPractice.App (App.java:17) - Hello, World Will be printed on debug
+WARN  | 2020-09-20 19:49:33 | [main] JavaPractice.App (App.java:18) - Hello, World Will be printed on debug
+ERROR | 2020-09-20 19:49:33 | [main] JavaPractice.App (App.java:19) - Hello, World Will be printed on debug
+FATAL | 2020-09-20 19:49:33 | [main] JavaPractice.App (App.java:20) - Hello, World Will be printed on debug
+INFO  | 2020-09-20 19:49:33 | [main] JavaPractice.App (App.java:21) - Appending string:Hello, World.
